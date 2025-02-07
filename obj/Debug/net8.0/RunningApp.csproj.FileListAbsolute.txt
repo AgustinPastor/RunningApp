@@ -1,0 +1,14 @@
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\bin\Debug\net8.0\RunningApp.exe
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\bin\Debug\net8.0\RunningApp.deps.json
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\bin\Debug\net8.0\RunningApp.runtimeconfig.json
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\bin\Debug\net8.0\RunningApp.dll
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\bin\Debug\net8.0\RunningApp.pdb
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\obj\Debug\net8.0\RunningApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\obj\Debug\net8.0\RunningApp.AssemblyInfoInputs.cache
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\obj\Debug\net8.0\RunningApp.AssemblyInfo.cs
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\obj\Debug\net8.0\RunningApp.csproj.CoreCompileInputs.cache
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\obj\Debug\net8.0\RunningApp.dll
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\obj\Debug\net8.0\refint\RunningApp.dll
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\obj\Debug\net8.0\RunningApp.pdb
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\obj\Debug\net8.0\RunningApp.genruntimeconfig.cache
+C:\Users\agus_\Documents\FP DAW\04. Fundamentos de la programación\Actividades evaluables\2do trimestre\RunningApp\obj\Debug\net8.0\ref\RunningApp.dll
